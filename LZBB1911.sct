@@ -307,6 +307,7 @@ ABLOM N048.04.03.000 E017.05.16.000
 ADAMA N047.59.16.000 E017.20.29.000
 ALAMU N047.44.13.000 E018.19.48.000
 ANEXA N047.51.17.000 E018.29.10.000
+ARFOX N047.58.28.000 E018.34.27.000
 BABKO N049.36.42.000 E019.28.10.000
 BADOV N048.01.16.000 E018.48.57.000
 BALAP N048.04.05.000 E019.15.00.000
@@ -318,6 +319,7 @@ CIFER N048.19.28.000 E017.26.10.000
 DEDIS N048.37.50.000 E020.43.32.000
 DEMOP N048.10.29.000 E020.03.25.000
 EBENI N048.43.39.000 E021.35.34.000
+EDEMU N048.10.28.000 E019.48.28.990
 EPEDA N048.52.25.000 E019.57.26.000
 EVULA N048.39.51.000 E021.39.46.000
 ERGOM N047.48.30.000 E018.43.59.000
@@ -3862,8 +3864,8 @@ UM66                      DEMOP          DEMOP          TEPNI          TEPNI    
 UM66                      TEPNI          TEPNI          REDSI          REDSI          ;
 UM66                      REDSI          REDSI          BABKO          BABKO          ;
 ;UM748
-UM748                     ERGOM          ERGOM          RUTOL          RUTOL          ;
-UM748                     RUTOL          RUTOL          NIT            NIT            ;
+UM748                     ERGOM          ERGOM          ARFOX          ARFOX          ;
+UM748                     ARFOX          ARFOX          NIT            NIT            ;
 UM748                     NIT            NIT            BERVA          BERVA          ;
 UM748                     BERVA          BERVA          ODNEM          ODNEM          ;
 ;UM857
@@ -4172,8 +4174,8 @@ M141                      TOVKA          TOVKA          OKR            OKR      
 M141                      OKR            OKR            UPIVA          UPIVA          ;
 M141                      UPIVA          UPIVA          TAKOS          TAKOS          ;
 ;M748
-M748                      ERGOM          ERGOM          RUTOL          RUTOL          ;
-M748                      RUTOL          RUTOL          NIT            NIT            ;
+M748                      ERGOM          ERGOM          ARFOX          ARFOX          ;
+M748                      ARFOX          ARFOX          NIT            NIT            ;
 M748                      NIT            NIT            BERVA          BERVA          ;
 M748                      BERVA          BERVA          TUTPI          TUTPI          ;
 M748                      TUTPI          TUTPI          ODNEM          ODNEM          ;
@@ -23023,8 +23025,7 @@ N049.07.37.180 E021.12.59.131 N049.08.16.099 E021.14.50.185 RESTR
 N049.08.16.099 E021.14.50.185 N049.08.21.000 E021.15.21.000 RESTR
 N049.08.21.000 E021.15.21.000 N049.09.34.000 E021.27.23.000 RESTR
 
-;LZD1 SklenÈ
-
+;LZD1 SklenÈçä
 N048.44.49.400 E018.49.52.000 N048.44.48.777 E018.50.01.584 RESTR
 N048.44.48.777 E018.50.01.584 N048.44.46.934 E018.50.10.800 RESTR
 N048.44.46.934 E018.50.10.800 N048.44.43.940 E018.50.19.294 RESTR
